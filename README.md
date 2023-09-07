@@ -41,4 +41,4 @@ Jika Anda ingin berkontribusi pada pengembangan proyek ini, silakan buat "pull r
 Proyek ini dilisensikan di bawah Lisensi MIT - lihat berkas [LICENSE](LICENSE) untuk informasi lebih lanjut.
 
 ---
-Dibuat oleh [Nama Anda](https://github.com/enrekangkoding)
+Dibuat oleh Sunar Aminullah(https://github.com/enrekangkoding)
